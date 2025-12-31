@@ -144,11 +144,19 @@ Bu repo eğitim amaçlıdır. Sen de projelere katkı sağlamak, farklı çözü
 
 ---
 
-## ✍️ Hazırlayan
+## 👤 Geliştirici Hakkında / About the Developer
 
 **Bahattin Yunus Çetin**
-🎓 KTÜ Yazılım Mühendisliği Öğrencisi
-🚀 Go & Python meraklısı
+*IT Architect | University Student (Of, Trabzon)*
+
+BTK Akademi Go Dili Kursu kapsamındaki gelişim sürecimi ve projelerimi bu depoda derliyorum. Profesyonel ağım ve diğer çalışmalarım için aşağıdaki bağlantıları kullanabilirsiniz.
+
+---
+
+### 🔗 İletişim & Sosyal Medya / Networking
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahattinyunus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahattinyunus/)
 
 
 ---
