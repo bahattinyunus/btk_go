@@ -20,7 +20,26 @@ Go (aka **Golang**), 2007'de Google tarafindan yazilim dunyasinin en kronik sika
 
 ---
 
-## 📁 Proje Klasörleri
+## 🎯 Vizyon ve Misyon
+
+Bu depo sadece bir kod koleksiyonu değil, aynı zamanda bir **modern mühendislik manifestosu**'dur. Temel amacımız:
+- **� Şeffaflık**: Kodun nasıl çalıştığını en derin detayına kadar göstermek.
+- **🛠 Pratiklik**: Teorik bilgiyi doğrudan çalışan kod bloklarına dönüştürmek.
+- **📈 Gelişim**: Her adımda üzerine katarak daha karmaşık sistemler tasarlamak.
+
+---
+
+## 🏗️ Gelişmiş Mimari Analizi
+
+Projelerimiz şu temel katmanlar üzerinde yükselmektedir:
+1.  **Fundamental Layer**: Değişkenler ve temel sözdizimi.
+2.  **Logic Layer**: Koşullu ifadeler ve döngüsel algoritmalar.
+3.  **Data Layer**: Struct'lar ve complex veri tipleri ile veri yönetimi.
+4.  **Concurrency Layer**: Go'nun gücünü yansıtan eşzamanlı çalışma modelleri.
+
+---
+
+## �📁 Proje Klasörleri
 
 ```bash
 .
@@ -135,6 +154,34 @@ Go'nun gücü sadece yazılımda değil; internetin yapı taşlarını taşır h
 * 🧘‍♂️ "Keep it simple" felsefesini iliklerine kadar yaşatıyor
 
 > "Go dili sade, hızlı ve eşzamanlı programlamaya uygun yapısıyla geleceğin sistem programlama dillerinden biridir."
+
+---
+
+## 🛣️ Yol Haritası (Roadmap)
+
+Gelecekte eklenmesi planlanan özellikler ve konular:
+- [ ] **GORM Entegrasyonu**: Veritabanı işlemleri için ORM kullanımı.
+- [ ] **Dockerize Go Apps**: Uygulamaların container ortamına taşınması.
+- [ ] **Unit Testing**: `testing` paketi ile kod kalitesinin artırılması.
+- [ ] **gRPC & Protobuf**: Yüksek performanslı mikroservis iletişimi.
+
+---
+
+## ❓ Sıkça Sorulan Sorular (FAQ)
+
+**S: Go öğrenmesi zor mu?**  
+C: Kesinlikle hayır. Go'nun sadece 25 anahtar kelimesi (keyword) vardır. Bu da onu öğrenmesi en kolay dillerden biri yapar.
+
+**S: Neden C++ veya Java yerine Go?**  
+C: Go, C++'ın performansını Java'nın kolaylığıyla birleştirirken, karmaşık derleme süreçlerini ve ağır runtime'ları ortadan kaldırır.
+
+---
+
+## 📚 Öğrenim Materyalleri
+
+- [A Tour of Go](https://tour.golang.org/) - Etkileşimli resmi eğitim.
+- [Go by Example](https://gobyexample.com/) - Açıklamalı kod örnekleri.
+- [Effective Go](https://golang.org/doc/effective_go.html) - Go yazım standartları.
 
 ---
 
